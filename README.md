@@ -37,7 +37,7 @@ No momento estou me aprimorando nessas linguagens e pretendo aprender mais
 <a href="https://www.linkedin.com/in/leonardo-cobayaxi-63140b15b/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> 
 </a>
-<a href="leonardokoba80@gmail.com">
+<a href="mailto:leonardokoba80@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 </div>
