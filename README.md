@@ -3,6 +3,8 @@
 
 
 ## Sobre
+&nbsp;
+&nbsp;
 Olá, meu nome é Leonardo Cobayaxi e mesmo com esse sobrenome inusitado todos me chamam de Léo ou Lenny.
 
 
@@ -36,11 +38,9 @@ Estou em transição de carreira e estudando para ser um dev full stack pela Cub
 
 - Back end
 
-
 No momento estou me aprimorando nessas linguagens e pretendo aprender mais 
-
-
-
+&nbsp;
+&nbsp;
 - [x] <img align="top" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 - [x] <img align="top" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 - [x] <img align="top" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -52,6 +52,8 @@ No momento estou me aprimorando nessas linguagens e pretendo aprender mais
 
 
 ## Contato
+&nbsp;
+&nbsp;
 <div>
 <a href="https://www.linkedin.com/in/leonardo-cobayaxi-63140b15b/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> 
