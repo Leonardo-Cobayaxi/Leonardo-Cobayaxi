@@ -1,12 +1,31 @@
+
+
+
+
 ## Sobre
 Olá, meu nome é Leonardo Cobayaxi e mesmo com esse sobrenome inusitado todos me chamam de Léo ou Lenny.
 
-<div> 
+
 <img  align="right" src="https://user-images.githubusercontent.com/104030341/191950501-e1260580-b447-4a3b-8d13-9f0b6d985e31.gif"  width="400" height="250"/>Nasci e cresci no interior de São Paulo e sempre tive uma compulsão de aprender coisas novas, evidenciado pela minha graduação prévia e biblioteca da steam. (grappler enjoyer) 
 
-Estou em transição de carreira e estudando para ser um dev full stack pela Cubos Academy 
-</div>
+Estou em transição de carreira e estudando para ser um dev full stack pela Cubos Academy </br>
 
+
+
+
+
+
+
+
+
+&nbsp;
+&nbsp;
+
+&nbsp;
+&nbsp;
+
+&nbsp;
+&nbsp;
 
 
 
