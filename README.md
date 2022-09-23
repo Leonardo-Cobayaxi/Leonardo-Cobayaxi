@@ -1,14 +1,9 @@
-
-
-
-
 ## Sobre
-&nbsp;
-&nbsp;
+
 Olá, meu nome é Leonardo Cobayaxi , e mesmo com esse sobrenome inusitado todos me chamam de Léo ou Lenny.
 
 
-<img  align="right" src="https://user-images.githubusercontent.com/104030341/191950501-e1260580-b447-4a3b-8d13-9f0b6d985e31.gif"  width="400" height="250"/>Nasci e cresci no interior de São Paulo e sempre tive uma compulsão de aprender coisas novas, evidenciado pela minha graduação prévia e biblioteca da steam. (grappler enjoyer) 
+<img  align="right" src="https://user-images.githubusercontent.com/104030341/191950501-e1260580-b447-4a3b-8d13-9f0b6d985e31.gif"  width="400" height="250"/>Nasci e cresci no interior de São Paulo e sempre tive uma compulsão de aprender coisas novas, evidenciado pela minha graduação prévia e interesse pela área de tecnologia. Grappler enjoyer e portador de injustificáveis horas em Dota2. 
 
 Estou em transição de carreira e estudando para ser um dev full stack pela Cubos Academy </br>
 
@@ -38,7 +33,7 @@ Estou em transição de carreira e estudando para ser um dev full stack pela Cub
 
 - Back end
 
-No momento estou me aprimorando nessas linguagens e pretendo aprender mais 
+No momento estas são as linguagens que estou me aprimorando e pretendo aprender mais 
 &nbsp;
 &nbsp;
 - [x] <img align="top" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
