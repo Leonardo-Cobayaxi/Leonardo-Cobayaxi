@@ -33,7 +33,7 @@ Estou em transição de carreira e estudando para ser um dev full stack pela Cub
 
 - Back end
 
-No momento estas são as linguagens que estou me aprimorando e pretendo aprender mais 
+No momento estas são as linguagens e ferramentas que estou me aprimorando e pretendo aprender mais 
 &nbsp;
 &nbsp;
 - [x] <img align="top" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
