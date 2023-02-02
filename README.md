@@ -42,8 +42,10 @@ No momento estas são as linguagens e ferramentas que estou me aprimorando e pre
 - [x] <img align="top" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 - [x] <img align="top" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 - [x] <img align="top" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+- [x] <img align="top" src="https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square" />
+- [x] <img align ="top" src="https://img.shields.io/badge/-Angular-white?logo=angular&logoColor=red" />
 - [ ] <img align="top" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-- [ ] <img align="top" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+
 
 
 ## Contato
